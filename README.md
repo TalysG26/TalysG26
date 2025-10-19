@@ -15,9 +15,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Talys GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUserAqui&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUserAqui&layout=compact&theme=radical)
 
 ---
 
@@ -28,3 +26,4 @@
 ---
 
 ✨ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos.  
+
