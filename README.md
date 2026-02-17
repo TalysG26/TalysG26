@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Talys Gustavo!
 
 💻 Estudante de **Desenvolvimento Web**  
-📚 Técnico em Informática (IFAL - conclusão em 2025)  
+📚 Técnico em Informática 
 🚀 Em busca da minha **primeira oportunidade como Desenvolvedor Júnior**
 
 ---
@@ -42,3 +42,4 @@
 ## 🌐 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talys-gustavo-f-423b25337)  
 📧 **Email:** gtalys0007@gmail.com
+
