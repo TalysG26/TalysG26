@@ -43,8 +43,9 @@
 
 ## 🌐 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talys-gustavo-f-423b25337)  
-[![Portiflio](https://portfolio-blush-chi-13.vercel.app/#sobre)]
+https://portfolio-blush-chi-13.vercel.app/#sobre
 📧 **Email:** gtalys0007@gmail.com
+
 
 
 
