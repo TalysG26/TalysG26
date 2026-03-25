@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Talys Gustavo!
 
-💻 Estudante de **Desenvolvimento Web**  
+💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
 📚 Técnico em Informática 
 🚀 Em busca da minha **primeira oportunidade como Desenvolvedor Júnior**
 
